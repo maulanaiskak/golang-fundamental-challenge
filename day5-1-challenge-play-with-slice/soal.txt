@@ -1,0 +1,23 @@
+Soal 1
+Buat lah program untuk mencetak data karyawan dengan ketentuan sebagai berikut:
+ID Karyawan : A001
+Nama Karyawan : Budi Hartono
+Alamat : Bandung
+
+ID Karyawan : A002
+Nama Karyawan : Michael Parmon
+Alamat : Bekasi
+
+ID Karyawan : A003
+Nama Karyawan : Saphira
+Alamat : Bandung
+
+ID Karyawan : A004
+Nama Karyawan : Santhia
+Alamat : Jakarta
+
+ID Karyawan : A005
+Nama Karyawan : Ageng
+Alamat : Depok
+
+repo: challenge-play-with-slice
